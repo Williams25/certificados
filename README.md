@@ -1,14 +1,8 @@
 # Certificados
 
-    - <a href="https://cursos.alura.com.br/certificate/a7b05b4a-69ed-4bd7-bad9-39b6b1e91cb5">
-       - Certificação Java SE 7 Programmer I Criando e usando Arrays
-    </a>
-    -<a href="https://cursos.alura.com.br/certificate/df27a731-ce5e-42c8-b7be-14a4859c3649">
-      - Certificação Java SE 7 Programmer I Métodos e encapsulamento
-    -</a>
-    <a href="https://cursos.alura.com.br/certificate/09320df1-c8b4-455d-bd67-9d027b72ec5c">
-      - Node.js e HTTP desenvolvendo uma API seguindo o estilo REST
-    </a>
+  - Certificação Java SE 7 Programmer I Criando e usando Arrays `https://cursos.alura.com.br/certificate/a7b05b4a-69ed-4bd7-bad9-39b6b1e91cb5`.
+  - Certificação Java SE 7 Programmer I Métodos e encapsulamento `https://cursos.alura.com.br/certificate/df27a731-ce5e-42c8-b7be-14a4859c3649`.
+  - Node.js e HTTP desenvolvendo uma API seguindo o estilo REST `https://cursos.alura.com.br/certificate/09320df1-c8b4-455d-bd67-9d027b72ec5c`
     <a href="https://github.com/Williams25/certificados/blob/master/CERTIFICADO%20PROGRAMA%C3%87%C3%83O%20JS%20PARA%20INTERNET.pdf">
       - CERTIFICADO PROGRAMAÇÃO JS PARA INTERNET
     </a>
