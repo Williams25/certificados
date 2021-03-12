@@ -1,12 +1,12 @@
 # Certificados
 
 <p>
-    <a href="https://cursos.alura.com.br/certificate/a7b05b4a-69ed-4bd7-bad9-39b6b1e91cb5">
+    - <a href="https://cursos.alura.com.br/certificate/a7b05b4a-69ed-4bd7-bad9-39b6b1e91cb5">
        - Certificação Java SE 7 Programmer I Criando e usando Arrays
     </a>
-    <a href="https://cursos.alura.com.br/certificate/df27a731-ce5e-42c8-b7be-14a4859c3649">
+    -<a href="https://cursos.alura.com.br/certificate/df27a731-ce5e-42c8-b7be-14a4859c3649">
       - Certificação Java SE 7 Programmer I Métodos e encapsulamento
-    </a>
+    -</a>
     <a href="https://cursos.alura.com.br/certificate/09320df1-c8b4-455d-bd67-9d027b72ec5c">
       - Node.js e HTTP desenvolvendo uma API seguindo o estilo REST
     </a>
