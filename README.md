@@ -1,6 +1,5 @@
 # Certificados
 
-<p>
     - <a href="https://cursos.alura.com.br/certificate/a7b05b4a-69ed-4bd7-bad9-39b6b1e91cb5">
        - Certificação Java SE 7 Programmer I Criando e usando Arrays
     </a>
@@ -73,4 +72,3 @@
     <a href="https://cursos.alura.com.br/certificate/06ddd1cd-2dd2-4f0e-99c0-593b5b6329de">
       - Rest com NodeJS API com Express e MySQL
     </a>
-<p>
