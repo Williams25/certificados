@@ -147,12 +147,12 @@
 
 <div>
   <a href="https://cursos.alura.com.br/certificate/92221cd7-e85f-49ac-8866-7e4e46425b58">
-    - React Hooks, Contextos e boas práticas
+    - React Hooks, Contextos e boas práticas.
   </a>
 </div>
 
 <div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
-    - Tech interior
+    - Tech interior.
   </a>
 </div>
