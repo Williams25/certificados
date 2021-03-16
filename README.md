@@ -162,3 +162,16 @@
     - Tech interior.
   </a>
 </div>
+
+<div>
+  <a href="https://github.com/Williams25/certificados/blob/master/Dominando Banco de Dados com MySQL.pdf">
+    - Dominando Banco de Dados com MySQL.
+  </a>
+</div>
+
+
+<div>
+  <a href="https://github.com/Williams25/certificados/blob/master/Formação Angular 11 - O início criando 7 projetos.pdf">
+    - Formação Angular 11 - O início criando 7 projetos.
+  </a>
+</div>
