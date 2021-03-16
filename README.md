@@ -152,6 +152,12 @@
 </div>
 
 <div>
+  <a href="https://cursos.alura.com.br/certificate/b77d9432-d018-4d2f-8180-ac7d00030048">
+    - React Router Navegação em uma SPA.
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
     - Tech interior.
   </a>
