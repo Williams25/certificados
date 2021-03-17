@@ -158,6 +158,12 @@
 </div>
 
 <div>
+  <a href="https://cursos.alura.com.br/certificate/50de252a-0eb9-482c-8318-74889dbb0765">
+    - React abstraindo seu css com styled-components.
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
     - Tech interior.
   </a>
