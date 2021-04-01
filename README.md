@@ -164,6 +164,12 @@
 </div>
 
 <div>
+  <a href="https://cursos.alura.com.br/certificate/b5038c97-4595-49dc-9d22-13f5cda75023">
+    - React Automatizando os testes em aplicações front-end.
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
     - Tech interior.
   </a>
@@ -177,7 +183,8 @@
 
 
 <div>
-  <a href="https://github.com/Williams25/certificados/blob/master/Formação Angular 11 - O início criando 7 projetos.pdf">
+  <a
+    href="https://github.com/Williams25/certificados/blob/master/Formação Angular 11 - O início criando 7 projetos.pdf">
     - Formação Angular 11 - O início criando 7 projetos.
   </a>
 </div>
