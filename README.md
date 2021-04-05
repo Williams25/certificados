@@ -181,6 +181,12 @@
   </a>
 </div>
 
+<div>
+  <a
+    href="https://cursos.alura.com.br/certificate/619c0b29-7df9-4bd6-9d9b-1895dbb3e0a4">
+    - Docker criando containers sem dor de cabeça.
+  </a>
+</div>
 
 <div>
   <a
