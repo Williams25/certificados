@@ -170,6 +170,13 @@
 </div>
 
 <div>
+  <a
+    href="https://cursos.alura.com.br/certificate/f44915cb-79a1-4474-86b1-3383436f00bb">
+    - GraphQL Construindo uma API com Apollo Server
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
     - Tech interior.
   </a>
@@ -185,6 +192,13 @@
   <a
     href="https://cursos.alura.com.br/certificate/619c0b29-7df9-4bd6-9d9b-1895dbb3e0a4">
     - Docker criando containers sem dor de cabeça.
+  </a>
+</div>
+
+<div>
+  <a
+    href="https://cursos.alura.com.br/certificate/b7d0ac61-0f6c-4164-86c8-1373cf436e60">
+    - Docker Swarm Orquestrador de containers.
   </a>
 </div>
 
