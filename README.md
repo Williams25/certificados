@@ -177,6 +177,13 @@
 </div>
 
 <div>
+  <a
+    href="https://cursos.alura.com.br/certificate/3da916be-0a2d-41b5-a0e2-262b0c1337bf">
+    - GraphQL: Integração de dados e relacionamentos
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/Williams25/certificados/blob/master/Tech interior.pdf">
     - Tech interior.
   </a>
