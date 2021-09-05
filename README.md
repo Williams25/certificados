@@ -172,14 +172,14 @@
 <div>
   <a
     href="https://cursos.alura.com.br/certificate/f44915cb-79a1-4474-86b1-3383436f00bb">
-    - GraphQL Construindo uma API com Apollo Server
+    - GraphQL Construindo uma API com Apollo Server.
   </a>
 </div>
 
 <div>
   <a
     href="https://cursos.alura.com.br/certificate/3da916be-0a2d-41b5-a0e2-262b0c1337bf">
-    - GraphQL: Integração de dados e relacionamentos
+    - GraphQL: Integração de dados e relacionamentos.
   </a>
 </div>
 
